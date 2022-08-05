@@ -7,6 +7,7 @@ Please find more info about each part in the relevant Readme file ([frontend](fr
 To start the project run docker-compose up from the project library.
 To check if the backend is up: [http://localhost:3000/api/ping]( http://localhost:3001/register)
 To check if the fronted is up:  [http://localhost:3001/register]( http://localhost:3001/register)
+
 ## Development
 
 When implementing a new feature or fixing a bug, please create a new pull request against `main` from a feature/bug branch and add `@vanessa-cooper` as reviewer.
